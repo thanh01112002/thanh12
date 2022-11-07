@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
  <HEAD>
@@ -20,7 +19,6 @@ canvas {
   height: 100%;
 }
   </style>
- </HEAD>
 
  <BODY>
   <canvas id="pinkboard"></canvas>
@@ -264,7 +262,6 @@ var ParticlePool = (function() {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Message Box</title>
-</head>
 
 <body>
 <script>
@@ -327,4 +324,3 @@ var ParticlePool = (function() {
     beginneon()
     </script></div>
  </BODY>
-</HTML>
